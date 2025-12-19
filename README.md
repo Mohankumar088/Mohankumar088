@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/Mohankumar088/Mohankumar088/blob/main/gitImg.jpg)
 <h1 align="center">Hi 👋, I'm Mohan Kumar B M</h1>
 <h3 align="center">A passionate Software Developer from Bengaluru, India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXdjOHJubTloa2lsZmR0cHd6MTh0am0yM3puMHI4aGZmcDQzamttcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif"
@@ -25,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohankumar088&show_icons=true&locale=en&layout=compact" alt="mohankumar088" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohankumar088&show_icons=true&locale=en" alt="mohankumar088" /></p>
+
