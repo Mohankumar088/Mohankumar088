@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNXdjOHJubTloa2lsZmR0cHd6MTh0am0yM3puMHI4aGZmcDQzamttcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohankumar088&label=Profile%20views&color=0e75b6&style=flat" alt="mohankumar088" /> </p>
-- 🔭 I’m Recent Graduate 2025 **Life Care**
+- 🔭 I’m Recent Graduate 2025 **MCA**
 
 - 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/mohan-kumar-b-m-125827284](http://www.linkedin.com/in/mohan-kumar-b-m-125827284)
 
